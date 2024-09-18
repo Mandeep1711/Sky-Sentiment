@@ -22,6 +22,7 @@ The dataset includes multiple features, such as:
 - user_timezone: The user's timezone at the time of the tweet.
 
 **Key Phases**
+
 Data Exploration: The dataset is thoroughly examined to understand its structure and key characteristics.
 
 Data Cleaning & Preprocessing: The dataset is preprocessed, including addressing missing values and preparing text data for analysis.
