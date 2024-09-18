@@ -23,8 +23,11 @@ The dataset includes multiple features, such as:
 
 **Key Phases**
 Data Exploration: The dataset is thoroughly examined to understand its structure and key characteristics.
+
 Data Cleaning & Preprocessing: The dataset is preprocessed, including addressing missing values and preparing text data for analysis.
+
 Sentiment Analysis: Text data is analyzed to categorize tweets as either positive, negative, or neutral.
+
 Model Evaluation: The accuracy of the sentiment classification is calculated to gauge the model's performance.
 
 **Final Insights**
